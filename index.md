@@ -1,6 +1,6 @@
 # Welcome to Eamon Aalipour's WebPage.
 
-If you want to skip to more [personal things click here](https://github.com/aalipoure34/Lab-1-Repo/new/main#but-lets-put-code-aside-for-a-bit-and-look-at-my-goals-ahead)
+If you want to skip to more [personal things click here](#goals)
 
 ![Here's a Photo of Me](https://media-exp1.licdn.com/dms/image/C5603AQFRjIXisf4Gqg/profile-displayphoto-shrink_200_200/0/1593136914665?e=1636588800&v=beta&t=7rTc1-lUrVTXnL1LtuDSurjEdMVlwiGFls3JrJ7npdQ)
 
@@ -8,7 +8,7 @@ If you want to skip to more [personal things click here](https://github.com/aali
 
 ### You can find one of the screenshots of me working on this general lab here [at this link](screenshots/VSCodeBranch.PNG).
 
-To make this page, I used:
+To make this page, I used
 
 - GitHub Flavored Markdown/GitHub
 - Git
@@ -18,6 +18,8 @@ To make this page, I used:
 Here's a bit more about me. First, here's one of my favorite quotes. It's from Mary Shelley's book *Frankenstein*.
 
 > "Beware; for I am fearless, and therefore powerful."
+
+### What I Do
 
 Now, a bit more about what I do. I'm currently studying computer science at UC San Diego. It seems only yesterday that I wrote my first lines of code:
 
@@ -49,7 +51,7 @@ I always want to learn more programming languages. Here's where I'm at right now
 - [ ] C#
 - [ ] Kotlin
 
-### But let's put code aside for a bit and look at my goals ahead.
+# Goals
 
 I'm mostly looking to expand my own knowledge this year and become more prepared for the job industry ahead while also staying as healthy as possible. 
 Specifically, I narrow down my goals to these in priority order:
