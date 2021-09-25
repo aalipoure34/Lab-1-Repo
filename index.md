@@ -1,10 +1,8 @@
-# Welcome to Eamon Aalipour's WebPage.
-
-If you want to skip to more [personal things click here](#goals)
+# Welcome to Eamon Aalipour's WebPage. This page was made for Lab 1 of CSE 110.
 
 ![Here's a Photo of Me](https://media-exp1.licdn.com/dms/image/C5603AQFRjIXisf4Gqg/profile-displayphoto-shrink_200_200/0/1593136914665?e=1636588800&v=beta&t=7rTc1-lUrVTXnL1LtuDSurjEdMVlwiGFls3JrJ7npdQ)
 
-## This page was made for Lab 1 of CSE 110.
+If you want to skip to more [personal things click here](#goals)
 
 ### You can find one of the screenshots of me working on this general lab here [at this link](screenshots/VSCodeBranch.PNG).
 
@@ -52,6 +50,8 @@ I always want to learn more programming languages. Here's where I'm at right now
 - [ ] C#    
 
 # Goals
+
+But enough talk about programming and code and let's talk more about my own personal goals.
 
 I'm mostly looking to expand my own knowledge this year and become more prepared for the job industry ahead while also staying as healthy as possible. 
 Specifically, I narrow down my goals to these in order of priority:
