@@ -1,2 +1,6 @@
 # Lab-1-Repo
-https://github.com/aalipoure34/Lab-1-Repo/new/main#but-lets-put-code-aside-for-a-bit-and-look-at-my-goals-ahead
+Here's the link to my website: 
+
+https://aalipoure34.github.io/Lab-1-Repo/
+
+Please visit the other branches for the different files made for the lab.
