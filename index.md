@@ -19,7 +19,7 @@ Here's a bit more about me. First, here's one of my favorite quotes. It's from M
 
 ### What I Do
 
-Now, a bit more about what I do. I'm currently studying computer science at UC San Diego. It seems only yesterday that I wrote my first lines of code:
+Now, a bit more about what I do. I'm currently studying computer science at **UC San Diego**. It seems only yesterday that I wrote my first lines of code:
 
 ```
 
