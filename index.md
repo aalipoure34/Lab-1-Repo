@@ -41,10 +41,10 @@ Since then I've written quite a bit more code as I enrolled in university, most 
 
 I always want to learn more programming languages. Here's where I'm at right now:
 
-- [X] Java
-- [X] Python
-- [X] C
-- [X] C++
+- [x] Java
+- [x] Python
+- [x] C
+- [x] C++
 - [ ] JavaScript
 - [ ] C#
 - [ ] Kotlin
