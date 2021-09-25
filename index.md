@@ -47,18 +47,20 @@ I always want to learn more programming languages. Here's where I'm at right now
 - [x] Python
 - [x] C
 - [x] C++
-- [ ] JavaScript
-- [ ] C#
 - [ ] Kotlin
+- [ ] JavaScript
+- [ ] C#    
 
 # Goals
 
 I'm mostly looking to expand my own knowledge this year and become more prepared for the job industry ahead while also staying as healthy as possible. 
-Specifically, I narrow down my goals to these in priority order:
+Specifically, I narrow down my goals to these in order of priority:
 
-1. Learn as much as I can from my classes and always pay attention.
-2. Attend more networking events and learn from my older peers.
-3. Maintain a good balance between working and relaxation.
+1. Make sure to attend class and do the best I can in each of them.
+2. Attain a healthy balance between working hard and exercising, relaxing, etc.
+3. Attend networking events and learn from my older peers and mentors.
+
+There's obviously too many to list, but this is a good starting point for now.
 
 That's it for my profile! Thanks for visiting :D. 
 
