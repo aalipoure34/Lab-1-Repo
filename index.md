@@ -62,7 +62,10 @@ Specifically, I narrow down my goals to these in order of priority:
 
 There's obviously too many to list, but this is a good starting point for now.
 
-That's it for my profile! Thanks for visiting :D. 
+That's it for my profile! Thanks for visiting :D I'll leave you with a picture of my favorite basketball player, Hakeem Olajuwon. Yes, he's the one in my profile picture.
+
+![Hakeem Olajuwon](https://user-images.githubusercontent.com/64985836/134819731-85b34a31-f855-44ba-b1fa-5999748b8730.png)
+
 
 
 
