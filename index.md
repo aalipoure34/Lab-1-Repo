@@ -2,7 +2,7 @@
 
 ![Here's a Photo of Me](https://media-exp1.licdn.com/dms/image/C5603AQFRjIXisf4Gqg/profile-displayphoto-shrink_200_200/0/1593136914665?e=1636588800&v=beta&t=7rTc1-lUrVTXnL1LtuDSurjEdMVlwiGFls3JrJ7npdQ)
 
-If you want to skip to more [personal things click here](#goals)
+If you want to skip to more [personal things click here](#goals-and-hobbies)
 
 ### You can find one of the screenshots of me working on this general lab here [at this link](screenshots/VSCodeBranch.PNG).
 
@@ -49,7 +49,7 @@ Even with all the code I've written, it always seems like I'm scratching the sur
 - [ ] JavaScript
 - [ ] C#    
 
-# Goals
+# Goals and Hobbies
 
 But enough talk about programming and code and let's talk more about my own personal goals.
 
