@@ -39,7 +39,7 @@ That was the first bits of code I wrote when I first took AP Computer Science A 
 
 Since then I've written quite a bit more code as I enrolled in university, most recently as an intern at Humana. 
 
-I always want to learn more programming languages. Here's where I'm at right now:
+Even with all the code I've written, it always seems like I'm scratching the surface. I always want to learn more programming languages. Here's where I'm at right now:
 
 - [x] Java
 - [x] Python
@@ -56,7 +56,7 @@ But enough talk about programming and code and let's talk more about my own pers
 I'm mostly looking to expand my own knowledge this year and become more prepared for the job industry ahead while also staying as healthy as possible. 
 Specifically, I narrow down my goals to these in order of priority:
 
-1. Make sure to attend class and do the best I can in each of them.
+1. Make sure to attend class and ~~fall asleep~~ do the best I can in each of them.
 2. Attain a healthy balance between working hard and exercising, relaxing, etc.
 3. Attend networking events and learn from my older peers and mentors.
 
