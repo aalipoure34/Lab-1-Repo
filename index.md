@@ -51,7 +51,19 @@ Even with all the code I've written, it always seems like I'm scratching the sur
 
 # Goals and Hobbies
 
-But enough talk about programming and code and let's talk more about my own personal goals.
+But enough talk about programming and code and let's talk more about my own personal goals and hobbies.
+
+### Hobbies 
+
+I enjoy doing a lot of things for fun but if I had to pick the most enjoyable it would be:
+
+- Table Tennis
+- Basketball
+- Watching Sports
+- Playing Video Games
+- Watching YouTube/Reading
+
+### Goals
 
 I'm mostly looking to expand my own knowledge this year and become more prepared for the job industry ahead while also staying as healthy as possible. 
 Specifically, I narrow down my goals to these in order of priority:
