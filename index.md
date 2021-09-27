@@ -78,6 +78,8 @@ That's it for my profile! Thanks for visiting :D I'll leave you with a picture o
 
 ![Hakeem Olajuwon](https://user-images.githubusercontent.com/64985836/134819731-85b34a31-f855-44ba-b1fa-5999748b8730.png)
 
+[Photo Credit: Britannica Biography on Hakeem Olajuwon](https://www.britannica.com/biography/Hakeem-Olajuwon)
+
 
 
 
